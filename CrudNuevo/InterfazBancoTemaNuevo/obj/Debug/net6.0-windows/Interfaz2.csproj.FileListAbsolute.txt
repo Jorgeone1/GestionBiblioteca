@@ -1,0 +1,147 @@
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.exe
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.deps.json
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.runtimeconfig.json
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.pdb
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.GenerateResource.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfoInputs.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfo.cs
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CoreCompileInputs.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\Interfaz2.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.pdb
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.genruntimeconfig.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\Interfaz2.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Properties.Resources.resources
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form2.resources
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form3.resources
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form4.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.exe
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.deps.json
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.runtimeconfig.json
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form2.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form3.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form4.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Properties.Resources.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfo.cs
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.genruntimeconfig.cache
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\Interfaz2.dll
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.exe
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.deps.json
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form2.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form3.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form4.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\Interfaz2.dll
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\Interfaz2.dll
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form5.resources
+C:\Users\Usuario\OneDrive\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form6.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form5.resources
+C:\Users\Alumno\Documents\GitHub\DesarrolloInterfazMedicoJorgeWangWang\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form6.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.exe
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.deps.json
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.runtimeconfig.json
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form2.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form3.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form4.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form5.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form6.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Properties.Resources.resources
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfo.cs
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CopyComplete
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\Interfaz2.dll
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.pdb
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.genruntimeconfig.cache
+C:\Users\Alumno\Documents\GitHub\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\Interfaz2.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.exe
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.deps.json
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.runtimeconfig.json
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Interfaz2.pdb
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.AssemblyReference.cache
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form2.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form3.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form4.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form5.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Form6.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.Properties.Resources.resources
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.GenerateResource.cache
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfoInputs.cache
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.AssemblyInfo.cs
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CoreCompileInputs.cache
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.sourcelink.json
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.csproj.CopyComplete
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\Interfaz2.dll
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.pdb
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\Interfaz2.genruntimeconfig.cache
+D:\CRUD\CrudNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\Interfaz2.dll

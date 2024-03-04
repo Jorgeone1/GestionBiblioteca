@@ -1,0 +1,16 @@
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\InterfazBancoTemaNuevo.exe
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\InterfazBancoTemaNuevo.deps.json
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\InterfazBancoTemaNuevo.runtimeconfig.json
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\InterfazBancoTemaNuevo.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\bin\Debug\net6.0-windows\InterfazBancoTemaNuevo.pdb
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.Form1.resources
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.csproj.GenerateResource.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.GeneratedMSBuildEditorConfig.editorconfig
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.AssemblyInfoInputs.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.AssemblyInfo.cs
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.csproj.CoreCompileInputs.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\refint\InterfazBancoTemaNuevo.dll
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.pdb
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\InterfazBancoTemaNuevo.genruntimeconfig.cache
+D:\JorgeWangWang\desarrollo de interfaces\InterfazBancoTemaNuevo\InterfazBancoTemaNuevo\obj\Debug\net6.0-windows\ref\InterfazBancoTemaNuevo.dll
